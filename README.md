@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanderBetz
 - 👀 I love to play sports, such as Tennis and Padel, work on my programming skills and to party or socialize!
-- 🌱 I’m currently studying Aeronautical Engineering @ Inholland University of Applied Sciences in Delft, the Netherlands
+- 🌱 I’m currently studying Pre-MSc Aerospace Engineering @ TU Delft in Delft, the Netherlands
 - 📫 How to reach me:
       Email: sander.betz@me.com
       Instagram: https://www.instagram.com/sanderbetz/
